@@ -6,6 +6,19 @@ This project presents an interactive Power BI dashboard designed to analyze fina
 
 The dashboard enables business users to monitor revenue, expenses, profitability, and customer contribution while identifying key performance trends.
 
+##Repository Structure
+
+powerbi-financial-analytics-dashboard
+
+README.md – Project description
+dashboard-files/ – Contains the dashboard and data template
+
+dashboard-files includes:
+
+• financial-analytics-dashboard.pbix – Power BI dashboard file
+• input_template.xlsx – Sample dataset template
+• screenshots/ – Dashboard page previews
+
 ## Dashboard Pages
 
 ### Executive Financial Overview
