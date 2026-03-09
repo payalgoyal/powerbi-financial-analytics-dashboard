@@ -11,11 +11,11 @@ The dashboard enables business users to monitor revenue, expenses, profitability
 powerbi-financial-analytics-dashboard
 
 README.md – Project description
-dashboard-files/ – Contains the dashboard and data template
+Financial_Analytics_PowerBI/ – Contains the dashboard and data template
 
 dashboard-files includes:
 
-• financial-analytics-dashboard.pbix – Power BI dashboard file
+• financial_analytics_dashboard.pbix – Power BI dashboard file
 • input_template.xlsx – Sample dataset template
 • screenshots/ – Dashboard page previews
 
@@ -63,6 +63,25 @@ Analyzes customer revenue contribution, profitability, and transaction behavior.
 * Data Modeling
 * Data Visualization
 
+## How to Use
+
+1. Download the `.pbix` file from the repository.
+2. Open the file in **Power BI Desktop**.
+3. Replace the dataset using your own financial data or the provided template.
+4. Refresh the report to generate updated insights.
+
+This dashboard framework can be reused for financial performance reporting and customer analytics.
+
 ## Dashboard Preview
 
 (Screenshots available in the screenshots folder)
+
+## Dashboard Preview
+
+![Executive Overview](Financial-Analytics-PowerBI/Screenshots/Executive_Overview.png)
+
+![Profit & Loss Analysis](Financial-Analytics-PowerBI/Screenshots/Profit_And_Loss_Analysis.png)
+
+![Expense Intelligence](Financial-Analytics-PowerBI/Screenshots/Expense_Intelligence.png)
+
+![Customer Insights](Financial-Analytics-PowerBI/Screenshots/Customer_Insights.png)
